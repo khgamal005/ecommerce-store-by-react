@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/ecommerce-store-by-react/static/css/main.23d2a758.css",
+    "main.js": "/ecommerce-store-by-react/static/js/main.7a682bff.js",
+    "static/media/fontawesome-webfont.svg?v=4.7.0": "/ecommerce-store-by-react/static/media/fontawesome-webfont.c1e38fd9e0e74ba58f7a.svg",
+    "static/media/fontawesome-webfont.eot": "/ecommerce-store-by-react/static/media/fontawesome-webfont.8b43027f47b20503057d.eot",
+    "static/media/fontawesome-webfont.ttf?v=4.7.0": "/ecommerce-store-by-react/static/media/fontawesome-webfont.1e59d2330b4c6deb84b3.ttf",
+    "static/media/fontawesome-webfont.woff?v=4.7.0": "/ecommerce-store-by-react/static/media/fontawesome-webfont.f691f37e57f04c152e23.woff",
+    "static/media/fontawesome-webfont.woff2?v=4.7.0": "/ecommerce-store-by-react/static/media/fontawesome-webfont.20fd1704ea223900efa9.woff2",
+    "static/media/cat1.png": "/ecommerce-store-by-react/static/media/cat1.cf1837781fba7bb631e0.png",
+    "static/media/slick.svg": "/ecommerce-store-by-react/static/media/slick.2630a3e3eab21c607e21.svg",
+    "static/media/slick.eot": "/ecommerce-store-by-react/static/media/slick.a4e97f5a2a64f0ab1323.eot",
+    "static/media/slick.ttf": "/ecommerce-store-by-react/static/media/slick.c94f7671dcc99dce43e2.ttf",
+    "static/media/slick.woff": "/ecommerce-store-by-react/static/media/slick.295183786cd8a1389865.woff",
+    "index.html": "/ecommerce-store-by-react/index.html",
+    "main.23d2a758.css.map": "/ecommerce-store-by-react/static/css/main.23d2a758.css.map",
+    "main.7a682bff.js.map": "/ecommerce-store-by-react/static/js/main.7a682bff.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.23d2a758.css",
+    "static/js/main.7a682bff.js"
+  ]
+}
