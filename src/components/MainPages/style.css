@@ -1,0 +1,38 @@
+/* _______________CARS_____________*/
+.cars .product:hover {
+    transform: scale(1.1);
+    border-radius: 10px;
+}
+/* _______________clothes_____________*/
+
+.clothes .product:hover .img img{
+    transform: scale(1.2);
+}
+/* _______________Electroinc_____________*/
+
+.Electroinc .product:hover .img img{
+    padding-top: 5px;
+    transform: rotate(10deg);
+}
+/* ______________Fashon______________*/
+
+.Fashon .product:hover{
+    transform: translateY(-15px);
+}
+/* _______________services_____________*/
+
+.services h3{
+    margin: 20px auto;
+    font-size: 35px;
+    color: gray;
+    border-bottom: 1px solid gray;
+    width: 200px;
+    text-align: center;
+}
+.services p{
+    width: 80%;
+    color: gray;
+    margin: 5px auto;
+    text-align: center;
+    line-height: 24px;
+}
