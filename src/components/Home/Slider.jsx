@@ -26,7 +26,7 @@ const SliderHome = () => {
                                 <button className="btn-praimary">Vist Collaction</button>
                             </div>
                             <div className="right">
-                                <img src={item.cover} alt="" />
+                                <img  src={item.cover}  alt=""  style={{width:'50%'}}/>
                             </div>
                         </div>
                     ))}

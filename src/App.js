@@ -18,7 +18,7 @@ function App() {
   }
 
   /*__________func Decrees____________  */
-  const Decrees = (product) => {
+  const Decrease = (product) => {
     const ProductCheak = DataItems.find((item) => item.id === product.id)
     if (ProductCheak.qty === 1) {
       setDataItems(DataItems.filter((item) => item.id !== product.id))
@@ -28,7 +28,7 @@ function App() {
   }
   /*__________func Delet __________ */
 
-  const Delet = (product) => {
+  const Delete = (product) => {
     const ProductCheak = DataItems.find((item) => item.id === product.id)
     if (ProductCheak) {
       setDataItems(DataItems.filter((item) => item.id !== product.id))
@@ -43,7 +43,7 @@ function App() {
           <Pages AddToCart={AddToCart} />
         </Route>
         <Route exact path="/cart">
-          <Cart DataItems={DataItems} AddToCart={AddToCart} Decrees={Decrees} Delet={Delet} />
+          <Cart DataItems={DataItems} AddToCart={AddToCart} Decrees={Decrease} Delet={Delete} />
         </Route>
       </Switch>
       
